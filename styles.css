@@ -1,0 +1,27 @@
+img {
+  width:350px;
+  height: 300px;
+  float: right;
+  margin-bottom: 2px;
+  
+}
+.body {
+  margin: 5pc;
+  font-size: 24px;
+  font-style:normal;
+  font-family: Calibri;
+  background-color: #ffffff;
+  display: block;
+  background-image: url("images/background.jpg");
+}
+
+.content {
+  font-size: 14px;
+  text-align:left;
+  margin: 2pc;
+  background-color:lightgray;
+  }
+
+}
+@media(max-width:640) { 
+}
